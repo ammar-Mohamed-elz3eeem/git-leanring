@@ -13,7 +13,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Pulvinar proin gravida hendrerit lectus a. Consectetur adipiscing elit ut aliquam purus sit. Quis varius quam quisque id diam vel. Sit amet aliquam id diam maecenas ultricies. Tincidunt arcu non sodales neque sodales ut etiam sit. Amet tellus cras adipiscing enim eu turpis egestas. Orci phasellus egestas tellus rutrum tellus. Leo vel orci porta non pulvinar neque laoreet suspendisse interdum. Parturient montes nascetur ridiculus mus mauris. Mi in nulla posuere sollicitudin aliquam ultrices sagittis orci a. Massa tincidunt dui ut ornare.
 
-![ALT "markdown image"](https://www.fullstackpython.com/img/logos/markdown.png "Title")
+![markdown image](https://www.fullstackpython.com/img/logos/markdown.png "Title")
 
 ### Intro
 
